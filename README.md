@@ -1,4 +1,3 @@
-[![pipeline status][pipeline-img]][pipeline-target] [![coverage report][coverage-img]][coverage-target]
 
 # Latte
 
